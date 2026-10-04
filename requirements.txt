@@ -6,6 +6,7 @@ langchain-huggingface
 # LLM Providers
 langchain-openai
 langchain-mistralai
+langchain-groq
 openai
 mistralai
 
